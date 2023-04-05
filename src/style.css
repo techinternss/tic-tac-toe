@@ -1,0 +1,48 @@
+.home{
+    padding: 50px;
+    background-color: aquamarine;
+    margin: 20px;
+}
+
+.about{
+    padding: 50px;
+    background-color:blue;
+    margin: 20px;
+}
+
+.btn{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+h1{
+    margin: 30px 100px;
+}
+
+.square{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.board{
+    margin: 20px 0px;
+}
+.row{
+    display: flex;
+    align-items: center;
+}
+h2{
+    text-align: center;    
+}
